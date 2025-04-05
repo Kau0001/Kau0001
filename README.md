@@ -7,7 +7,7 @@
   ##  👨🏾‍💻 Kauã Gabriel 
 `Front-End developer`
 
-<div  align="center" style="display: inline_block"><br>
+
 Sou Kauã tenho 18 anos, estudante de Engenharia de Software na FIAP, com grande interesse por programação desde a infância. Concluí o Ensino Médio e o curso de inglês no CNA concluído em 2023. Tenho facilidade em aprender coisas novas e sou uma pessoa de fácil convivência, o que me permite colaborar bem em equipe. Estou em busca do meu primeiro emprego na área de programação, com o objetivo de crescer profissionalmente e aplicar meus conhecimentos.
 <div  align="center" style="display: inline_block"><br>
 - 🌱 Estudando Engenharia de software<br>
