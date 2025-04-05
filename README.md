@@ -14,6 +14,7 @@ Sou Kauã tenho 18 anos, estudante de Engenharia de Software na FIAP, com grande
 - 📫 kauagms07@gmail.com<br>
 
 </div>
+<div  align="center" style="display: inline_block"><br>
 <img align="center" alt="Kaike-Python" height="180" width="180" src="https://i.gifer.com/Paz.gif">
 
   ## My Stack
